@@ -2,8 +2,9 @@ var $h1 = $('<h1>');
 $h1.html('Below ground veggies');
 $('body').append($h1);
 
+var $li = $('<li>');
 
-if $above hasClass('above') {
+if $li hasClass('above') {
 
 } else {
 
